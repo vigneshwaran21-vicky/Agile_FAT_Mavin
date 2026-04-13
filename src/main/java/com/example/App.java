@@ -1,4 +1,4 @@
-package com.vote;
+package com.example;
 import java.util.Scanner;
 public class App {
     public static String getEligibilityStatus(int age, boolean isCitizen, boolean hasValidID) {
